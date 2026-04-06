@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="GIA/GIA.vcxproj" />
+  <Project Path="GIA/GIA.vcxproj" Id="b0716bee-034d-4d95-8004-31866b2f53a9" />
 </Solution>

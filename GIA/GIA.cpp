@@ -3,13 +3,12 @@
 
 #include <iostream>
 using namespace std;
-{
 
-}
 int main()
 {
     cout << "Hello World!\n";
 	cout << "hello ca nha\n";
+	return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
